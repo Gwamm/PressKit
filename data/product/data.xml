@@ -27,93 +27,92 @@
 <product>
 
   <!-- This guide is not yet written. -->
-  <title>My Super Game</title>
-  <website>http://pizzaburger.studio/mysupergame</website>
+  <title>Dawn of the Celestialpod</title>
+  <website>http:/celestialpod.com</website>
 
-  <press-copy-request>
+  <!--<press-copy-request>
     http://pizzaburger.studio/mysupergame/request/
-  </press-copy-request>
+  </press-copy-request>-->
 
   <release-dates>
-    <release-date>04 Feb, 2016</release-date>
-    <release-date>10 Oct, 2016</release-date>
+    <release-date>Q2, 2018</release-date>
   </release-dates>
 
   <platforms>
     <platform>
-      <name>PC / Mac</name>
-      <link>http://itch.io/</link>
+      <name>PC</name>
+      <!--<link>http://itch.io/</link>-->
     </platform>
     <platform>
       <name>Steam</name>
-      <link>http://steampowered.com/</link>
+      <!--<link>http://steampowered.com/</link>-->
     </platform>
   </platforms>
 
   <prices>
-    <price>
+    <!--<price>
       <currency>EUR</currency>
       <value>20</value>
-    </price>
+    </price>-->
     <price>
       <currency>USD</currency>
-      <value>20</value>
+      <value>TBA</value>
     </price>
-    <price>
+    <!--<price>
       <currency>GBP</currency>
       <value>16</value>
-    </price>
-    <price>
+    </price>-->
+    <!--<price>
       <currency>JPY</currency>
       <value>2300</value>
-    </price>
+    </price>-->
   </prices>
 
   <description>
-    Here goes a quick description of your product or game. Be concise and explain in very few words the concept or the gameplay and why it's really cool and why everyone should use or play it.
+    Swing around as a space squid battling a fleet of robot packed spaceships in an effort to save your Starfish species. Find the best ways to infiltrate each ship, overcome their advanced technology, free your captured species, and get out before the whole place explodes. Brought to you by a group of student game developers at Champlain College in Burlington, Vermont.
   </description>
 
   <history>
-    Add some storytelling here. Not the scenario of your game, but rather some backgrounds behind the creation process: why are you making this game? Most projects starts with a cool story.
+    Dawn of the Celestialpod is a physics based, 2D, action RPG where you become a space squid.
   </history>
 
   <features>
-    <feature>List some "Key Sellings Points" to grab player's attention.</feature>
-    <feature>Don't be too generic ("pixel art graphics!"), don't be too pretentious ("most incredible game experience!").</feature>
-    <feature>Also, people like numbers, so you can add some (450 weapons, hundreds of levels, dozens of hours of playtime!).</feature>
-    <feature>Need ideas? Maybe explain some game modes?</feature>
-    <feature>It would be a nice place to say something about multiplayer, if you have some.</feature>
-    <feature>Have you translated your game? (You probably should btw.)</feature>
+    <feature>Physics base gameplay.</feature>
+    <feature>Custom 2D-tentacle system that allows you full range motion</feature>
+    <feature>Highly destructable environment.</feature>
+    <feature>Focus on smooth movement both in and out of gravity</feature>
+    <feature>Unique art style meant to contrast the sharp, cold attitudes of the inorganic with the round, soft features of the organic</feature>
+    <feature>Progression system that allows you to arm yourself to battle the robots in your own playstyle</feature>
   </features>
 
   <trailers>
     <trailer>
-      <name>Release Trailer</name>
-      <youtube>EtXajayBLzw</youtube>
+      <name>Announcement Trailer</name>
+      <youtube>iCmnw9alyx8</youtube>
     </trailer>
     <trailer>
-      <name>Gameplay Video #2</name>
-      <youtube>EPNK1j3TMjU</youtube>
+      <name>Story Trailer</name>
+      <youtube>dfTKe9rv6nA</youtube>
     </trailer>
     <trailer>
-      <name>Early Access Trailer</name>
-      <youtube>EtyQMcc19xY</youtube>
+      <name>Full Trailer</name>
+      <youtube>Ef0BbizWtqE</youtube>
     </trailer>
   </trailers>
 
-  <widgets>
+  <!--<widgets>
     <appstore>950812012</appstore>
     <playstore>com.noodlecake.altosadventure</playstore>
     <steam>347160</steam>
     <humble>steredenn/7SDLfk23hw</humble>
     <itch>27992</itch>
     <bandcamp>1135613467</bandcamp>
-  </widgets>
+  </widgets>-->
 
-  <awards>
+  <!--<awards>
     <award>
       <description>Game of the year without a doubt</description>
-      <info>Saint-Père-Marc-En-Poulet (France), 04 February, 2016</info>
+      <info>Saint-PÃ¨re-Marc-En-Poulet (France), 04 February, 2016</info>
     </award>
     <award>
       <description>Best soundtrack</description>
@@ -123,9 +122,9 @@
       <description>Best MYGAMENGINE game</description>
       <info>Deep into the woods (Forest), 31 March, 2014</info>
     </award>
-  </awards>
+  </awards>-->
 
-  <quotes>
+  <!--<quotes>
     <quote>
       <description>This is my favorite game of all time.</description>
       <name>Mum</name>
@@ -144,7 +143,7 @@
       <website>Steam review</website>
       <link>http://steam.review/</link>
     </quote>
-  </quotes>
+  </quotes>-->
 
   <additionals>
     <additional>
@@ -157,42 +156,94 @@
       <description>Announcement are exciting, so we usually make blog posts or news about it on</description>
       <link>http://pixelnest.io/journal/</link>
     </additional>
-  </additionals>
+   </additionals>
 
   <credits>
     <credit>
-      <person>Krokmou</person>
-      <role>Bot Leader, Game Designer, Pixelnest Studio</role>
+      <person>Tyler Chermely</person>
+      <website>https://tylerchermely.com/blog/</website>
+      <role>Founder, Programmer</role>
     </credit>
+    
     <credit>
-      <person>Hiccup</person>
-      <role>Developer, Pixelnest Studio</role>
+      <person>Richard Conti</person>
+      <website>https://www.richieconti.com/</website>
+      <role>Founder, Lead Designer, Product Owner</role>
     </credit>
+    
     <credit>
-      <person>Astrid</person>
-      <website>http://www.astridsupergame.com</website>
+      <person>Alana Slattery</person>
+      <website>https://slatterycapstone.tumblr.com/</website>
+      <role>Founder, Lead Artist</role>
+    </credit>
+    
+    <credit>
+      <person>Liam Craffey</person>
+      <website>https://liamcraffey.github.io/</website>
+      <role>Founder, Producer</role>
+    </credit>
+    
+    <credit>
+      <person>Matthew Sharp</person>
+      <website>https://gamedevelopmentblog2017.wordpress.com/</website>
+      <role>Artist</role>
+    </credit>
+    
+    <credit>
+      <person>Erika Andersen</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Programmer</role>
+    </credit>
+    
+    <credit>
+      <person>Joshua Bernstein</person>
+      <website>http://joshuagad.com/</website>
+      <role>Designer, Scrum Master</role>
+    </credit>
+    
+    <credit>
+      <person>Lena Wagner</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Artist</role>
+    </credit>
+    
+    <credit>
+      <person>Genevieve Guimond</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Narrative Designer, Collaborator</role>
+    </credit>
+    
+    <credit>
+      <person>Kayla Sawyer</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Sound Designer, Collaborator</role>
+    </credit>
+    
+    <credit>
+      <person>Leonardo RoblesGonzalez</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
       <role>Musician, Freelancer</role>
     </credit>
   </credits>
 
-  <contacts>
+ <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>mysupergame@pizzaburger.studio</mail>
+      <mail>gwammstudio@gmail.com</mail>
     </contact>
     <contact>
       <name>Twitter</name>
-      <link>https://twitter.com/pizzaburgerstudio</link>
+      <link>https://twitter.com/GwammStudio</link>
     </contact>
     <contact>
       <name>Facebook</name>
-      <link>https://facebook.com/pizzaburgerstudio</link>
+      <link>https://facebook.com/GwammStudio</link>
     </contact>
-    <contact>
+    <!--<contact>
       <name>Web</name>
-      <link>http://mysupergame.pizzaburger.studio/</link>
-    </contact>
+      <link>http://pizzaburger.studio</link>
+    </contact>-->
   </contacts>
 
-<!-- All done! 🍾 -->
+<!-- All done! ðŸ¾ -->
 </product>

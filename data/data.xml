@@ -30,20 +30,20 @@
   <!-- ## General Information -->
 
   <!-- Begin with your company name, location, and miscellaneous information. -->
-  <title>Pizza Burger Studio</title>
-  <based-in>Paris, France</based-in>
-  <founding-date>February 6, 2014</founding-date>
-  <website>https://github.com/pixelnest/presskit.html</website>
-  <phone>+42 (3) 42 42 42 42 42</phone>
+  <title>Gwamm Studio</title>
+  <based-in>Burlington, Vermont</based-in>
+  <founding-date>August, 2017</founding-date>
+  <website>http://celestialpod.com</website>
+  <phone></phone>
 
   <!--
     For the address, use as many lines as you want.
     Don't forget to specify the country.
   -->
   <address>
-    <line>42 street of Pixelnest</line>
-    <line>35000 Rennes</line>
-    <line>France</line>
+    <line>Burlington</line>
+    <line>05401 Vermont</line>
+    <line>United States</line>
   </address>
 
   <!--
@@ -54,34 +54,34 @@
   -->
   <socials>
     <social>
-      <name>Twitter @pizzaburgerstudio</name>
-      <link>https://twitter.com/pizzaburgerstudio</link>
+      <name>Twitter @GwammStudio</name>
+      <link>https://twitter.com/GwammStudio</link>
     </social>
     <social>
       <name>Facebook Page</name>
-      <link>https://facebook.com/pizzaburgerstudio</link>
+      <link>https://www.facebook.com/GwammStudio/</link>
     </social>
-    <social>
+    <!--<social>
       <name>Skype</name>
       <link>callto:pizzaburgerstudio</link>
-    </social>
+    </social>-->
   </socials>
 
   <!-- This field is the primary mail address you want to give to the press. -->
-  <press-contact>contact@pizzaburger.studio</press-contact>
+  <press-contact>gwammstudio@gmail.com</press-contact>
 
   <!--
     Use this tag to set your Google analytics tracking code.
 
     **It's, of course, completely optional.**
   -->
-  <analytics>UA-42424242-0</analytics>
+  <!--<analytics>UA-42424242-0</analytics>-->
 
   <!-- ## Description & History -->
 
   <!-- The description is a simple short block to describe your company or studio. Be brief. -->
   <description>
-    This is a fake presskit for a fake company called Pizza Burger Studio.
+    Small, student based team making games.
   </description>
 
   <!--
@@ -124,13 +124,16 @@
   -->
   <trailers>
     <trailer>
-      <name>Example from YouTube. Don't give a full link: the ID is enough</name>
-      <youtube>er416Ad3R1g</youtube>
+      <name>Announcement Trailer</name>
+      <youtube>iCmnw9alyx8</youtube>
     </trailer>
     <trailer>
-      <name>Example from both YouTube and Vimeo</name>
-      <youtube>YH3c1QZzRK4</youtube>
-      <vimeo>108650530</vimeo>
+      <name>Story Trailer</name>
+      <youtube>dfTKe9rv6nA</youtube>
+    </trailer>
+    <trailer>
+      <name>Full Trailer</name>
+      <youtube>Ef0BbizWtqE</youtube>
     </trailer>
   </trailers>
 
@@ -141,7 +144,7 @@
 
     But don't add too much here: this is your company page, not a product one.
   -->
-  <awards>
+  <!--<awards>
     <award>
       <description>An award</description>
       <info>Name, location, 29 April, 1988</info>
@@ -150,21 +153,21 @@
       <description>A nomination</description>
       <info>Name, location, 03 October, 1988</info>
     </award>
-  </awards>
+  </awards>-->
 
   <!--
     Quotes are used to show the appreciation of your users.
 
     Show something important, something nice, or something funny, for example.
   -->
-  <quotes>
+  <!--<quotes>
     <quote>
       <description>There's not enough pizza in your life. It's never enough.</description>
       <name>@mrhelmut</name>
       <website>Tweet</website>
       <link>https://twitter.com/mrhelmut/status/717276362814447616</link>
     </quote>
-  </quotes>
+  </quotes>-->
 
   <!--
     Need to link to a resource? A small product? An RSS feed?
@@ -173,7 +176,7 @@
 
     Put those here, in the `<additionals>` tag.
   -->
-  <additionals>
+  <!--<additionals>
     <additional>
       <title>Patricia Pizza Twitter</title>
       <description>@patpiz at</description>
@@ -184,7 +187,7 @@
       <description>@bobburg at</description>
       <link>https://twitter.com/bobburg</link>
     </additional>
-  </additionals>
+  </additionals>-->
 
   <!-- ## Team & Contacts -->
 
@@ -201,21 +204,68 @@
   -->
   <credits>
     <credit>
-      <person>Patricia Pizza</person>
-      <role>Founder, Developer, Pizza Burger Studio</role>
+      <person>Tyler Chermely</person>
+      <website>https://tylerchermely.com/blog/</website>
+      <role>Founder, Programmer</role>
     </credit>
+    
     <credit>
-      <person>Bob Burger</person>
-      <role>Founder, Designer, Pizza Burger Studio</role>
+      <person>Richard Conti</person>
+      <website>https://www.richieconti.com/</website>
+      <role>Founder, Lead Designer, Product Owner</role>
     </credit>
+    
     <credit>
-      <person>Jake Burgza</person>
-      <website>http://www.jakeburgza.com</website>
-      <role>Artist, Collaborator</role>
+      <person>Alana Slattery</person>
+      <website>https://slatterycapstone.tumblr.com/</website>
+      <role>Founder, Lead Artist</role>
     </credit>
+    
     <credit>
-      <person>Sophia Pizer</person>
-      <website>http://www.sophiapizer.com</website>
+      <person>Liam Craffey</person>
+      <website>https://liamcraffey.github.io/</website>
+      <role>Founder, Producer</role>
+    </credit>
+    
+    <credit>
+      <person>Matthew Sharp</person>
+      <website>https://gamedevelopmentblog2017.wordpress.com/</website>
+      <role>Artist</role>
+    </credit>
+    
+    <credit>
+      <person>Erika Andersen</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Programmer</role>
+    </credit>
+    
+    <credit>
+      <person>Joshua Bernstein</person>
+      <website>http://joshuagad.com/</website>
+      <role>Designer, Scrum Master</role>
+    </credit>
+    
+    <credit>
+      <person>Lena Wagner</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Artist</role>
+    </credit>
+    
+    <credit>
+      <person>Genevieve Guimond</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Narrative Designer, Collaborator</role>
+    </credit>
+    
+    <credit>
+      <person>Kayla Sawyer</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
+      <role>Sound Designer, Collaborator</role>
+    </credit>
+    
+    <credit>
+      <person>Leonardo RoblesGonzalez</person>
+      <!--<website>http://www.sophiapizer.com</website>-->
       <role>Musician, Collaborator</role>
     </credit>
   </credits>
@@ -230,20 +280,20 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>contact@pizzaburger.studio</mail>
+      <mail>gwammstudio@gmail.com</mail>
     </contact>
     <contact>
       <name>Twitter</name>
-      <link>https://twitter.com/pizzaburgerstudio</link>
+      <link>https://twitter.com/GwammStudio</link>
     </contact>
     <contact>
       <name>Facebook</name>
-      <link>https://facebook.com/pizzaburgerstudio</link>
+      <link>https://facebook.com/GwammStudio</link>
     </contact>
-    <contact>
+    <!--<contact>
       <name>Web</name>
       <link>http://pizzaburger.studio</link>
-    </contact>
+    </contact>-->
   </contacts>
 
   <!--
